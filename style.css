@@ -1,0 +1,24 @@
+.link a{
+    text-decoration: none;
+}
+.link a:hover{
+    color:pink;
+    background-color: blue;
+}
+*{
+    font-family: kalnia;
+}
+.card{
+    display:flex;
+    text-align: center;
+    size: 23%;
+    margin-top: 8vh;
+}
+.container{
+    display: flexbox;
+    align-items: center;
+    gap: 20px;
+}
+link{
+    padding:8%;
+}
